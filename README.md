@@ -1,7 +1,7 @@
 # Webinar-Attendance-Capstone
 A project for 3DHeals, a collector of innovators and early adopters in healthcare 3D printing, bioprinting, and related technologies
 
-##Problem Identification
+## Problem Identification
 The Question: What can be developed that informs 3DHeals who is joining their webinars, how they can increase the number of participants, and how they can increase engagement during the webinars?
 
 The Audience: The results will be presented to the CEO and founder of 3DHeals Jenny Chen.
@@ -17,13 +17,13 @@ The Model: Supervised regression using Gradient Boosting with RSME = 24%
 The Deliverables: Colab notebooks of data wrangling through modeling, as well as this final report and presentation
 
 
-##Notebooks
+## Notebooks
 1. Data Wrangling
 2. Exploratory Data Analysis
 3. Pre-processing and Modeling
 
 
-##Reports
+## Reports
 1. Final Report
 2. Model Metrics
 3. Presentation
